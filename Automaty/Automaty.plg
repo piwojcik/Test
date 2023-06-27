@@ -3,15 +3,9 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\HOME\Desktop\git\Test\Automaty\Automaty.uvproj
+C:\Users\HOME\Desktop\Nowy folder\Test\Automaty\Automaty.uvproj
 Project File Date:  06/27/2023
 
 <h2>Output:</h2>
-Build target 'Target 1'
-compiling main.c...
-compiling KEYBOARD.c...
-KEYBOARD.c: Error:  #5: cannot open source input file "..\moduly\KEYBOARD.c": No such file or directory
-".\Automaty.axf" - 1 Errors, 0 Warning(s).
-Target not created
 Clean started: Project: 'Automaty'
    deleting intermediate output files for target 'Target 1'

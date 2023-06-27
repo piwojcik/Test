@@ -1,6 +1,6 @@
 #include "led.h"
 #include "keyboard.h"
-// jfhgfh
+// main sense
 void Delay(unsigned int uiTimeInMS){
 	
 	unsigned int uiLoopCounter;
